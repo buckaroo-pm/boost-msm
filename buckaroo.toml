@@ -3,3 +3,7 @@ targets = [ "//:msm" ]
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-parameter"
 version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-proto"
+version = "branch=master"

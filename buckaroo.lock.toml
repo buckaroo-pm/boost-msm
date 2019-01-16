@@ -1,9 +1,17 @@
-manifest = "b52ad189987f35817307f0cd78e2d9e5e950845e9315c8bc06c8b4e90e7c242d"
+manifest = "0ee50c0f2247950e40756a5c256c21952af9f63daed0dcdf408a99432cddb8d1"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-parameter"
 target = "//:parameter"
 
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-proto"
+target = "//:proto"
+
 [lock."github.com/buckaroo-pm/boost-parameter"]
 versions = [ "branch=master" ]
 revision = "292c3e063e8d44d4a967b70939a8a56d6c48d297"
+
+[lock."github.com/buckaroo-pm/boost-proto"]
+versions = [ "branch=master" ]
+revision = "8ef32a7220b344a5b376b4b466e8294ee5a73a5c"
