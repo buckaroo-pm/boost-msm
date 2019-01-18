@@ -1,4 +1,4 @@
-manifest = "0ee50c0f2247950e40756a5c256c21952af9f63daed0dcdf408a99432cddb8d1"
+manifest = "63abef2b1a2425083d66d758199982ad271d4a1f03421383b6d3e8f41bc91f95"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-parameter"
@@ -14,4 +14,4 @@ revision = "292c3e063e8d44d4a967b70939a8a56d6c48d297"
 
 [lock."github.com/buckaroo-pm/boost-proto"]
 versions = [ "branch=master" ]
-revision = "8ef32a7220b344a5b376b4b466e8294ee5a73a5c"
+revision = "153d707e0fbf7ea9898d5566e56264f0b181e320"
