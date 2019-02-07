@@ -14,4 +14,4 @@ revision = "1a3418ef15b39b015221382fcdbfc526603b5a14"
 
 [lock."github.com/buckaroo-pm/boost-proto"]
 versions = [ "branch=master" ]
-revision = "153d707e0fbf7ea9898d5566e56264f0b181e320"
+revision = "ff5442377d14be8ce2c1ff1177c9ea67bf673af3"
